@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 模型文件（太大，不建议提交到 Git）
+*.pth
+*.pkl
+*.h5
+*.ckpt
+
+# 数据文件（如果很大的话）
+# *.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 其他
+*.log
+.env
