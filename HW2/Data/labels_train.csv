@@ -1,0 +1,15 @@
+video_path,label
+videos_train/a001.mp4,1
+videos_train/a002.mp4,1
+videos_train/a003.mp4,1
+videos_train/a004.mp4,1
+videos_train/a005.mp4,1
+videos_train/a006.mp4,1
+videos_train/a007.mp4,1
+videos_train/a008.mp4,0
+videos_train/a009.mp4,0
+videos_train/a010.mp4,0
+videos_train/a011.mp4,0
+videos_train/a012.mp4,0
+videos_train/a013.mp4,0
+videos_train/a014.mp4,0

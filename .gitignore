@@ -32,6 +32,20 @@ wheels/
 # 数据文件（如果很大的话）
 # *.csv
 
+# 大文件 - zip/rar/视频文件
+*.zip
+*.rar
+*.tar.gz
+*.7z
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Word文档(如果需要可以注释掉)
+*.doc
+*.docx
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
