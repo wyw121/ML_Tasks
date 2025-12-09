@@ -42,10 +42,6 @@ wheels/
 *.mov
 *.mkv
 
-# Word文档(如果需要可以注释掉)
-*.doc
-*.docx
-
 # Jupyter Notebook
 .ipynb_checkpoints
 
